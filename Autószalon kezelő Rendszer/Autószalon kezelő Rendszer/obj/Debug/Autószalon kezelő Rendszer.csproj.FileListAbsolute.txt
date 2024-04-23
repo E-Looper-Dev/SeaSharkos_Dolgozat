@@ -1,0 +1,8 @@
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\bin\Debug\Autószalon kezelő Rendszer.exe.config
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\bin\Debug\Autószalon kezelő Rendszer.exe
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\bin\Debug\Autószalon kezelő Rendszer.pdb
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\obj\Debug\Autószalon kezelő Rendszer.csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\obj\Debug\Autószalon kezelő Rendszer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\obj\Debug\Autószalon kezelő Rendszer.csproj.CoreCompileInputs.cache
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\obj\Debug\Autószalon kezelő Rendszer.exe
+C:\Users\Diák\source\repos\Autószalon kezelő Rendszer\Autószalon kezelő Rendszer\obj\Debug\Autószalon kezelő Rendszer.pdb
